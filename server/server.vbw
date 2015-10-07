@@ -1,0 +1,14 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modMain = 198, 198, 423, 691, 
+modConstant = 22, 22, 669, 638, 
+modDatabase = 44, 44, 691, 660, 
+clsBuffer = 0, 0, 0, 0, C
+modTCP = 132, 132, 779, 748, 
+modGlobal = 220, 220, 445, 713, 
+modType = 176, 176, 401, 669, 
+modLoop = 0, 0, 0, 0, C
+modEnumeration = 154, 154, 801, 770, Z
+modHandleData = 66, 66, 713, 682, 
+modPlayer = 0, 0, 0, 0, C
+modCombat = 88, 88, 735, 704, 
+modLogic = 110, 110, 757, 726, 

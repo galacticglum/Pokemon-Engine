@@ -1,0 +1,3 @@
+The following error occured at 'txtCatchRate_Change' in 'frmItemEditor'.
+Run-time error '13': Type mismatch.
+
